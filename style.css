@@ -55,6 +55,8 @@ canvas {
   display: flex;
   position: absolute;
   top: 30%;
+  left: 40%;
+  right: 40%;
   height: 25%;
   width: 100%;
   font-size: 100px;
